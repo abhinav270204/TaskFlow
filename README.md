@@ -58,7 +58,7 @@ Navigate to `http://localhost:3000` in your browser.
 ![Light Mode](Frontend/src/assets/Light-mode.png)
 
 ### Dark Mode
-![Login Mode](frontend/src/assets/Login-mode.png)
+![Login Mode](Frontend/src/assets/Login-mode.png)
 
 ---
 
