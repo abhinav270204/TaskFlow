@@ -55,10 +55,10 @@ Navigate to `http://localhost:3000` in your browser.
 ## 🖼️ Screenshots
 
 ### Light Mode
-![Light Mode](frontend/assets/Light-mode.png)
+![Light Mode](Frontend/src/assets/Light-mode.png)
 
 ### Dark Mode
-![Login Mode](frontend/assets/Login-mode.png)
+![Login Mode](frontend/src/assets/Login-mode.png)
 
 ---
 
